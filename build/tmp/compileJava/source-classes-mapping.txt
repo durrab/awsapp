@@ -1,0 +1,43 @@
+com/h2app/model/Weather.java
+ com.h2app.model.Weather
+com/h2app/functions/LambdaRequestStreamHandler.java
+ com.h2app.functions.LambdaRequestStreamHandler
+com/h2app/dto/RequestDTO.java
+ com.h2app.dto.RequestDTO
+com/h2app/H2appApplication.java
+ com.h2app.H2appApplication
+com/h2app/model/Book.java
+ com.h2app.model.Book
+com/h2app/functions/LambdaMethodHandler.java
+ com.h2app.functions.LambdaMethodHandler
+com/h2app/controller/WeatherApiRestController.java
+ com.h2app.controller.WeatherApiRestController
+com/h2app/service/WeatherService.java
+ com.h2app.service.WeatherService
+com/h2app/dto/Payload.java
+ com.h2app.dto.Payload
+com/h2app/dto/Key.java
+ com.h2app.dto.Key
+com/h2app/repository/WeatherRepository.java
+ com.h2app.repository.WeatherRepository
+com/h2app/repository/LocationRepository.java
+ com.h2app.repository.LocationRepository
+com/h2app/model/Location.java
+ com.h2app.model.Location
+com/h2app/dto/ResponseDTO.java
+ com.h2app.dto.ResponseDTO
+com/h2app/functions/LambdaRequestHandler.java
+ com.h2app.functions.LambdaRequestHandler
+com/h2app/aws/ApiGatewayException.java
+ com.h2app.aws.ApiGatewayException
+com/h2app/aws/JsonApiGatewayCaller.java
+ com.h2app.aws.JsonApiGatewayCaller
+ com.h2app.aws.JsonApiGatewayCaller$1
+com/h2app/aws/ApiGatewayResponse.java
+ com.h2app.aws.ApiGatewayResponse
+com/h2app/aws/AmazonS3Factory.java
+ com.h2app.aws.AmazonS3Factory
+com/h2app/config/AppConfig.java
+ com.h2app.config.AppConfig
+com/h2app/controller/AWSController.java
+ com.h2app.controller.AWSController

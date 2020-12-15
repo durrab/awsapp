@@ -1,0 +1,2 @@
+com/h2app/H2appApplicationTests.java
+ com.h2app.H2appApplicationTests
